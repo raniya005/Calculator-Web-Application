@@ -1,1 +1,1 @@
-# oibsip_1
+A responsive web-based calculator using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division through an interactive and user-friendly interface.
